@@ -24,10 +24,10 @@ export function createGallery(images) {
           </a>
           <div class="info">
             <ul>
-            <li>Likes:<span>${likes}</span> </li>
-            <li>Views:<span>${views}</span> </li>
-            <li>Comments:<span>${comments}</span> </li>
-            <li>Downloads:<span>${downloads}</span> </li>
+            <li>Likes:<span>${likes}</span></li>
+            <li>Views:<span>${views}</span></li>
+            <li>Comments:<span>${comments}</span></li>
+            <li>Downloads:<span>${downloads}</span></li>
             </ul>
           </div>
         </li>
