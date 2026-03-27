@@ -1,4 +1,4 @@
-.search-form {
+.form {
   display: flex;
   justify-content: center;
   margin-top: 40px;
@@ -13,7 +13,7 @@
   outline: none;
 }
 
-.search-form button {
+.form button {
   padding: 12px 20px;
   font-size: 16px;
   border-radius: 0 8px 8px 0;

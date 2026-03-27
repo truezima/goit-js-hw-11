@@ -9,7 +9,7 @@ import {
   hideLoader,
 } from "./js/render-functions";
 
-const form = document.querySelector(".search-form");
+const form = document.querySelector(".form");
 
 form.addEventListener("submit", async (e) => {
   e.preventDefault();
