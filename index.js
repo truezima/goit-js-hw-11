@@ -5,10 +5,10 @@
           </a>
           <div class="info">
             <ul>
-            <li>Likes:<span>${r}</span> </li>
-            <li>Views:<span>${a}</span> </li>
-            <li>Comments:<span>${l}</span> </li>
-            <li>Downloads:<span>${u}</span> </li>
+            <li>Likes:<span>${r}</span></li>
+            <li>Views:<span>${a}</span></li>
+            <li>Comments:<span>${l}</span></li>
+            <li>Downloads:<span>${u}</span></li>
             </ul>
           </div>
         </li>
